@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-nagashwin-red)](https://www.youtube.com/channel/UC1KIZpXSSM79SxlaghIohig)
 [![Linkedin Badge](https://img.shields.io/badge/-nagashwin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagashwin-s-b792b721/)](https://www.linkedin.com/in/nagashwin-s-b792b721/)
-[![Website Badge](https://img.shields.io/badge/WebSite-nagashwin-green)](https://nagashwin.github.io/ashwin_profile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-nagashwin-green)](https://nagashwins.in/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-nagashwin-yellow)](https://stackoverflow.com/users/9460581/nagashwin-sarvadevabatla)
 
 I'm
